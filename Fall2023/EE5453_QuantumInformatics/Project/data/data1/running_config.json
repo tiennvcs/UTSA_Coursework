@@ -1,0 +1,7 @@
+{
+    "true_function": "def f(x: np.ndarray):\n    return 2*x + 3\n",
+    "N": 20,
+    "D": 1,
+    "mean": 0,
+    "var": 4
+}
