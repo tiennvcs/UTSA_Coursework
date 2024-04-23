@@ -41,7 +41,7 @@ while row_idx <= d.shape[0] - g.shape[0]:
         convolution_output[row_idx, col_idx] = np.sum(np.multiply(input_tile, g))
         col_idx += 1
     row_idx += 1
-print(convolution_output)
+print("Normal convolution output: ", convolution_output)
 
 # The output of Winograd convolution
 ## Transform the input feature map into Winograd domain
