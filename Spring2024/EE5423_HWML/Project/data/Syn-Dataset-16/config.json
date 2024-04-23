@@ -1,0 +1,14 @@
+{
+    "CLASSES": [
+        0,
+        1
+    ],
+    "DIM": 16,
+    "NUM_SAMPLES": 100,
+    "TRAIN_RATIO": 0.9,
+    "RANDOM_SEED": 2505,
+    "D1_mean": 0,
+    "D1_var": 1,
+    "D2_mean": 0,
+    "D2_var": 2
+}
